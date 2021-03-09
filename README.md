@@ -96,16 +96,16 @@ Consumer Role:
 ## Diagrams
 
 * Action Diagram
-(images/Action.pdf)
+(https://github.com/JCKrick/SupplyChainProjectUdacity/blob/master/images/Action.pdf)
 
 * Class Diagram
-(images/Class.pdf)
+(https://github.com/JCKrick/SupplyChainProjectUdacity/blob/master/images/Class.pdf)
 
 * Sequence Diagram
-(images/Sequence.pdf)
+(https://github.com/JCKrick/SupplyChainProjectUdacity/blob/master/images/Sequence.pdf)
 
 * State Diagram
-(images/State.pdf)
+(https://github.com/JCKrick/SupplyChainProjectUdacity/blob/master/images/State.pdf)
 
 
 ## Built With
