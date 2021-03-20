@@ -2697,6 +2697,37 @@
     "version": "0.4.24+commit.e67f0147.Emscripten.clang"
   },
   "networks": {
+    "4": {
+      "events": {
+        "0xa6e19995fcd43692608dd22517d5ac42734754c76a1c3c0dc0f9af43aec11e1f": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "AddedConsumer",
+          "type": "event"
+        },
+        "0x40468a4e758f7c0dbe1bfa2965d8a8e87083d718166834beaf3e1474647dafc7": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "RemovedConsumer",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x6A4B55DCf51e8B69F7e9cFb2f6C904307c0Ff43a",
+      "transactionHash": "0x52e1a82cfc968874392f26910de44b6287d3206d18dd3cbc5c830d7da2a5c701"
+    },
     "1614868350424": {
       "events": {
         "0xa6e19995fcd43692608dd22517d5ac42734754c76a1c3c0dc0f9af43aec11e1f": {
@@ -2761,7 +2792,7 @@
     }
   },
   "schemaVersion": "3.3.3",
-  "updatedAt": "2021-03-19T15:25:43.163Z",
+  "updatedAt": "2021-03-20T15:09:20.726Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
